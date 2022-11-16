@@ -1,5 +1,5 @@
 - 👋 Hello, World! My name is Bolesław /bɔˈlɛs.waf/. I'm an old junior - starting my IT journey in my late 30s.
-- 👀 Interested in Linux, cloud solutions (Azure), IT sec
+- 👀 Interested in Linux, cloud solutions (Azure), DevOps processes, IT sec
 - 🌱 I’m currently learning: bash scripting & Azure/GitHub DevOps tools
 
 <!---
